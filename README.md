@@ -9,10 +9,12 @@ Surge así la necesidad de la Corporación Desde el Barrio, la cual, a pesar de 
     i. Identificación y análisis de causas raíz 
 
 B. Identificación de los clientes potenciales. 
+
 Cliente al que se le desarrollará la página: Corporación Desde el Barrio
 
-Posibles financiadores para nuestro cliente: Comfama, Alcaldía
-Público general interesado en la oferta 
+Posibles financiadores para nuestro cliente: Comfama, Alcaldía, Otras fundaciones o corporaciones, empresas a las que le rebajen los impuestos
+
+Público objetivo de la oferta de la corporación: niños y jóvenes 
 
 C. Identificación del Product Market Fit 
 
